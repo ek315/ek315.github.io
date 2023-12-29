@@ -16,3 +16,9 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+<br/><br/>
+<center>
+    <img src="assets/images/Kamienski, Emily PhD 02.jpg" style="width:50%;"/>
+</center>
+<span style="font-size:medium;">
