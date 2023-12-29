@@ -4,8 +4,4 @@
 
 layout: home
 ---
-<br/><br/>
-<center>
-    <img src="/docs/assets/images/Kamienski_Emily_PhD_02.jpg" style="width:50%;"/>
-</center>
-<span style="font-size:medium;">
+
