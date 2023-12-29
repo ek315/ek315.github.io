@@ -31,6 +31,9 @@ github_username:  ek315
 
 # Build settings
 theme: jekyll-theme-Minima
+
+markdown: kramdown
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -39,7 +42,7 @@ header_pages:
   - about.md
   - projects.md
 
-markdown: kramdown
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
