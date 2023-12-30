@@ -5,6 +5,19 @@
 layout: home
 ---
 
+<header>
+    
+    <nav>
+       
+        <label class="menu-icon" for="menu-btn" tabindex="0"><span class="navicon"></span></label>
+        <ul class="menu">
+            <li><a class="active-link" href="index.html">HOME</a></li>
+            <li><a href="_pages/about.md">ABOUT ME</a></li>
+            <li><a href="_pages/projects.md">SELECTED WORK</a></li>
+        </ul>
+    </nav>
+</header>
+
 Emily Kamienski is a PhD candidate in the Department of Mechanical Engineering at MIT. She is working in the d’Arbeloff Robotics Lab under Professor Harry Asada. Previously, she received her SM from MIT in 2021 and her BS from the Georgia Institute of Technology in 2019. Her research interests include modeling
 human stability while walking and investigating control techniques to aid in human balance while walking for impaired populations.
 
