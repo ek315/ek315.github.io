@@ -10,5 +10,13 @@
   {%- endif -%}
 
   {%- include custom-head.html -%}
+
+   {%- if site.header_pages -%}
+    {%- for page in site.header_pages -%}
+      {%- if page.link_title and page.link_url -%}
+        <link rel="alternate" href="{{ page.link_url | relative_url }}" title="{{ page.link_title }}">
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
   
 </head>

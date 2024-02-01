@@ -5,13 +5,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
+
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -30,6 +24,19 @@
 
     <div class="social-links">
       {%- include social.html -%}
+    </div>
+
+    <style>
+    .social-link img {
+        width: 30px; /* Adjust this value to set the width */
+        height: auto; /* Maintain aspect ratio */
+    }
+    </style>
+    <div class="separator"></div>
+    <div id="social-media-wrapper">
+        <a aria-label="My LinkedIn profile" rel="external" href="https://www.linkedin.com/in/emily-kamienski-8b896a12a/" target="_blank" class="social-link">
+            <img src="/assets/linkedin.png" alt="LinkedIn icon">
+        </a>
     </div>
 
   </div>

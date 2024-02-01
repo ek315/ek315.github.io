@@ -4,12 +4,35 @@ title: About
 permalink: /about/
 ---
 
+<p> I am very interested in working on robotics learning and control problems in the context of the medical or space industry.</p>
+<!-- to create solutions to challenges -->
 
-Emily Kamienski is a PhD candidate in the Department of Mechanical Engi- neering at MIT. She is working in the d’Arbeloff Robotics Lab under Professor Harry Asada. Previously, she received her SM from MIT in 2021 and her BS from the Georgia Institute of Technology in 2019. Her research interests include modeling human stability while walking and investigating control techniques to aid in human balance while walking for impaired populations. At Georgia Tech
-she worked with Prof. Jonathan Rogers as an undergraduate researcher on a robot for an arboretum that drove on a cable to monitor vegetation below, as well as a docking system for landing UAVs on moving ground vehicles. She also was on Georgia Tech’s Formula SAE team working on the controls and manufacturing sub-teams. She has held internships at several companies, including Northrop Grumman, United Technologies Aerospace Systems, and the Naval Surface Warfare Center. She received the Astronaut Scholarship in 2018.
+<p>I try to get heavily involved in my community and at MIT I have served as a mentor and treasurer of the Makerworkshop, professional development officer of the Graduate Women in Robotics club, and president of the Mechanical Engineering Graduate Association of Women. Additionally, I enjoy managing projects and helping others make their project a success, which I have gained experience in through serving as a teaching assistant for 2.12 intro to robotics class for 2 semesters.</p>
 
-<br/><br/>
-<center>
-    <img src="/assets/xc_ski.jpg" style="width:50%;"/>
-</center>
-<span style="font-size:medium;">
+
+<p> At Georgia Tech I worked with Prof. Jonathan Rogers as an undergraduate researcher on a robot for an arboretum that drove on a cable to monitor vegetation below, as well as a docking system for landing UAVs on moving ground vehicles. I also was on Georgia Tech’s Formula SAE team working on the controls and manufacturing sub-teams. I received the Astronaut Scholarship in 2018.</p>
+
+<p> In my free time I enjoy backpacking, training for half marathons, skiing, reading, and playing board games. </p>
+
+<p> Please send me an email if you want to learn more about my projects or discuss an idea!</p>
+
+
+<style>
+  
+    .image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .image-container img {
+        width: 40%; /* Adjust the width as needed */
+        height: auto; /* Maintain aspect ratio */
+    }
+</style>
+
+<div class="image-container">
+    <img src="/assets/xc_ski.jpg" alt="Image 1">
+    <img src="/assets/backpacking.jpg" alt="Image 2">
+</div>
