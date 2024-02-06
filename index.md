@@ -60,7 +60,7 @@ layout: home
 
 
 <div>
-    <p>I am a PhD candidate in the Department of Mechanical Engineering at MIT and am working in the d’Arbeloff Robotics Lab under Professor Harry Asada. My research interests include modeling human stability while walking and investigating control techniques to aid in human balance while walking for impaired populations. Previously, I received my M.S. from MIT in 2021 and my B.S. from the Georgia Institute of Technology in 2019. I have held internships at several companies, including Northrop Grumman, United Technologies Aerospace Systems, and the Naval Surface Warfare Center. </p>
+    <p>I am a Robotics PhD candidate in the Department of Mechanical Engineering at MIT and am working in the d’Arbeloff Robotics Lab under Professor Harry Asada. My research interests include modeling human stability while walking and investigating control techniques to aid in human balance while walking for impaired populations. Previously, I received my M.S. in Mech. Eng. from MIT in 2021 and my B.S. in Mech. Eng. with a minor in Computer Science from the Georgia Institute of Technology in 2019. I have held internships at several companies, including Northrop Grumman, United Technologies Aerospace Systems, and the Naval Surface Warfare Center. </p>
     </div>
 
 
