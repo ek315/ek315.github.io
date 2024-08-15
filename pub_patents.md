@@ -7,7 +7,7 @@ permalink: /publications_patents/
 
 - E. A. Kamienski, P. Bonato and H. Harry Asada, "Time-Critical Fall Prediction Based on Lipschitz Data Analysis and Design of a Reconfigurable Walker for Preventing Fall Injuries," in IEEE Access, doi: 10.1109/ACCESS.2023.3347263.
 
-- I. Nozawa, E. Kamienski, C. O'Neill, and H. Asada, "A Monte Carlo Approach to Koopman Direct Encoding and Its Application to the Learning of Neural-Network Observables", IEEE Robotics and Automation Letters (RA-L), 2023.
+- I. Nozawa, E. Kamienski, C. O'Neill and H. H. Asada, "A Monte Carlo Approach to Koopman Direct Encoding and Its Application to the Learning of Neural-Network Observables," in IEEE Robotics and Automation Letters, vol. 9, no. 3, pp. 2264-2271, March 2024, doi: 10.1109/LRA.2024.3354612.
 
 - A. Garlow, S. Kemp, K.A. Skinner, E. Kamienski,  A. Debate, J. Fernandez, J. Dotterweich, A. Mazumdar, J.D. Rogers. "Robust Autonomous Landing of a Quadcopter on a Mobile Vehicle Using Infrared Beacons". In Proceedings of the VFS Autonomous VTOL Technical Meeting, Mesa, AZ, USA, 24–26 January 2023.
 
