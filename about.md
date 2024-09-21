@@ -17,22 +17,3 @@ permalink: /about/
 <p> Please send me an email if you want to learn more about my projects or discuss an idea!</p>
 
 
-<style>
-  
-    .image-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        gap: 20px;
-    }
-
-    .image-container img {
-        width: 40%; /* Adjust the width as needed */
-        height: auto; /* Maintain aspect ratio */
-    }
-</style>
-
-<div class="image-container">
-    <img src="/assets/xc_ski.jpg" alt="Image 1">
-    <img src="/assets/backpacking.jpg" alt="Image 2">
-</div>
