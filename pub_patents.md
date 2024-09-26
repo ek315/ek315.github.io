@@ -18,10 +18,6 @@ Conference Papers
 
 - J. Bell, E. Kamienski, S. Teshigawara, H. Itagaki and H. H. Asada, "Gear Ratio Optimization of a Multifunctional Walker Robot Using Dual-Motor Actuation," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp. 9339-9346, doi: 10.1109/IROS51168.2021.9636482. 
 
-Workshop Presentations
-
-- E. Kamienski. “Human Gait Modeling and Analysis using Koopman Operators”. Invited Talk at “Koopman Operators in Robotics” Workshop. Robotics: Science & Systems 2024. Delft, Netherlands. July 15, 2024. https://sites.google.com/yale.edu/rss-2024-koopman-operators/home
-
 Patents
 
 - E. Kamienski and H. H. Asada, "Fall Catching Robot". US Patent 63/607,061, Filed Dec. 6, 2023. (Provisional) 
