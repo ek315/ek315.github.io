@@ -4,13 +4,14 @@ title: Publications & Patents
 permalink: /publications_patents/
 ---
 Journal Publications
-- E. A. Kamienski and H. Harry Asada, “Model Free Method of Screening Training Data for Adversarial Datapoints through Local Lipschitz Quotient Analysis,” in IEEE Robotics and Automation Letters, 2024. Under Review.
+- E. A. Kamienski and H. Harry Asada, “Model Free Method of Screening Training Data for Adversarial Datapoints through Local Lipschitz Quotient Analysis,” in IEEE Robotics and Automation Letters, September, 2024. 
 
 - Nozawa, E. Kamienski, C. O’Neill and H.H. Asada, “A Monte Carlo Approach to Koopman Direct Encoding and Its Application to the Learning of Neural-Network Observables”, in IEEE Robotics and Automation Letters, vol. 9, no. 3, pp. 2264-2271, March 2024, doi 10.1109/LRA.2024.3354612.
 
 - E. A. Kamienski, P. Bonato and H. H. Asada, "Time-Critical Fall Prediction Based on Lipschitz Data Analysis and Design of a Reconfigurable Walker for Preventing Fall Injuries," in IEEE Access, vol. 12, pp. 1822-1838, 2024, doi: 10.1109/ACCESS.2023.3347263.
 
 Conference Papers
+- E. Kamienski, S. Donahue, M. Major, and H. Harry Asada. “Koopman Modeling of Human Gait Dynamics for Global Modal Analysis Using Periodic Motion Regularization”, American Control Conference (ACC) 2025. Under review.
 
 - A. Stewart-Height, R. Bolli, E. Kamienski, and H. H. Asada, " Design and Experimental Validation of Woodwork-Inspired Soft Pneumatic Grippers. 2025 IEEE International Conference on Robotics and Automation (ICRA). Under Review.
 
