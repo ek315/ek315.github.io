@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ek315.github.io/sitemap.xml
