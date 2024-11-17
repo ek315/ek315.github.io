@@ -49,9 +49,9 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Please send me an email if you want to learn more about my projects or discuss an idea!
+  Please send me an email if you want to chat or learn more about my projects!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

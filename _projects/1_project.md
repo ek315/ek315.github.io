@@ -5,7 +5,7 @@ description: Fall 2023, 16.485 - Visual Navigation for Autonomous Vehicles proje
 img: assets/img/aorta_cover.png
 importance: 1
 category: coursework
-related_publications: true
+related_publications: false
 ---
 
 <h3>Skills Demonstrated</h3>
@@ -51,14 +51,32 @@ In this work we use data taken while inserting a surgical probe into a synthetic
 
 I developed a CNN model using the UNet architecture to segment the ultrasound images. I then integrated this segmentation code with the Voxblox library TSDF implementation code to create a 3D mesh of the dissected aorta.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        {% include figure.liquid loading="eager" path="assets/img/aorta_training.png" title="example image" class="img-fluid rounded z-depth-1" width ="80%" %}
+    </div>
+</div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        {% include video.liquid path="assets/img/aorta_mesh_video.mp4"
+                       width="80%" 
+                       height="auto" 
+                       autoplay="true" 
+                       controls="true" 
+                       loop="true" 
+                       muted="true" 
+                       class="img-fluid rounded z-depth-1" 
+                      
+        %}
+    </div>
+</div>
 
-
-<br/><br/>
+<!-- <br/><br/>
 <center>
     <img src="assets/img/aorta_training.png" style="width:90%;"/>
 </center>
-<span style="font-size:medium;">
+<span style="font-size:medium;"> -->
 
 
 
@@ -68,13 +86,13 @@ I developed a CNN model using the UNet architecture to segment the ultrasound im
 </center>
 <span style="font-size:medium;"> -->
 
-<br/><br/>
+<!-- <br/><br/>
 <center>
 <video width="640" height="480" autoplay muted>
   <source src="assets/img/aorta_mesh_video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-</center>
+</center> -->
 
 <!-- <br/><br/>
 <center>
