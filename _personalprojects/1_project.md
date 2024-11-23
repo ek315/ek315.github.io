@@ -3,12 +3,12 @@ layout: page
 title: Prusa i3 3D Printer Build
 description: 2015 - High school senior year
 img: assets/img/3dprinter_cover.jpg
-importance: 1
-category: other
+importance: 5
+category: fun
 related_publications: false
 ---
 
-<h3>Skills Demonstrated</h3>
+<!-- <h3>Skills Demonstrated</h3>
 <style>
     .horizontal-word-bullets {
       list-style-type: none; /* Remove default bullets */
@@ -34,7 +34,7 @@ related_publications: false
   <li>Machine Design</li>
   <li>Machine Assembly</li>
 
-</ul>
+</ul> -->
 
 <h3>Project Description</h3>
 <p> In my senior year of high school in 2015, I got the opportunity to construct an early build of the Prusa I3 printer at <a href="https://www.nova-labs.org/" target="_blank">NOVA Labs</a>, a local makerspace. I later used my printer to print prosthetic hands using open source designs from <a href="https://enablingthefuture.org/" target="_blank">E-NABLE</a>, and got a chance to present the results at the Capitol Hill Maker Faire that year. </p>

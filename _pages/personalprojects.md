@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: Some of my selected work. PROJECT PAGES CURRENTLY UNDER CONSTRUCTION. Project pages for titles with an "*" coming soon.
+title: personal
+permalink: /personal/
+description: In my free time I enjoy reading, long hikes, running, and an occasional woodworking project.
 nav: true
-nav_order: 1
-display_categories: [research, coursework]
+nav_order: 5
+display_categories: [fun]
 horizontal: false
 ---
 
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.personalprojects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.personalprojects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
