@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of my selected work. PROJECT PAGES CURRENTLY UNDER CONSTRUCTION. Project pages for titles with an "*" coming soon.
+description: Some of my selected work. PROJECT PAGES CURRENTLY UNDER CONSTRUCTION. Project pages for titles with an "*" will be added soon.
 nav: true
 nav_order: 1
 display_categories: [research, coursework]

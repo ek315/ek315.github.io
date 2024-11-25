@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Journal & conference publications.
+description: Journal & conference publications. Please see my CV for a list of my patents.
 nav: true
 nav_order: 2
 ---
