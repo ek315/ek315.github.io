@@ -15,7 +15,7 @@ profile:
         <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">Ph.D. MIT (est. Feb. 2025)</p>
+              <p class="course">Ph.D. MIT - May 2025</p>
             </div>
             <ul>
               <li>Major&#58; Robot Design & Control</li>
@@ -26,7 +26,7 @@ profile:
         <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">M.S. MIT 2021</p>
+              <p class="course">M.S. MIT - June 2021</p>
             </div>
             <ul>
               <li>Mechanical Engineering</li>
@@ -35,7 +35,7 @@ profile:
         <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">B.S. Georgia Tech 2019</p>
+              <p class="course">B.S. Georgia Tech - May 2019</p>
             </div>
             <ul>
               <li>Major&#58; Mechanical Engineering</li>
@@ -52,7 +52,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Robotics PhD candidate at MIT working in the <a href='https://darbelofflab.mit.edu/'>d’Arbeloff Robotics Lab</a> and am advised by <a href='https://meche.mit.edu/people/faculty/asada%40mit.edu'> Harry Asada</a>. My research interests include robot design and control for safe dynamic human robot interaction and learning based modeling and estimation of hybrid nonlinear dynamics. Previously, I received my M.S. in Mechanical Engineering from MIT in 2021. I obtained my B.S. in Mechanical Engineering with a minor in Computer Science from Georgia Tech in 2019, where I did undergraduate research primarily with <a href='https://ae.gatech.edu/directory/person/jonathan-rogers'>Jonathan Rogers</a>, and spent many an hour on the Formula SAE Team, <a href='https://www.gtms.gatech.edu/.'> GTMS</a>. I have held internships at several large engineering companies and plan to work in industry after completing my PhD. 
+I am a Robotics PhD candidate at MIT working in the <a href='https://darbelofflab.mit.edu/'>d’Arbeloff Robotics Lab</a> and am advised by <a href='https://meche.mit.edu/people/faculty/asada%40mit.edu'> Harry Asada</a>. My research interests include developing control and estimation algorithms for safe dynamic human-robot interaction, and implementing them on hardware. Previously, I received my M.S. in Mechanical Engineering from MIT in 2021. I obtained my B.S. in Mechanical Engineering with a minor in Computer Science from Georgia Tech in 2019, where I did undergraduate research primarily with <a href='https://ae.gatech.edu/directory/person/jonathan-rogers'>Jonathan Rogers</a>, and spent many an hour on the Formula SAE Team, <a href='https://www.gtms.gatech.edu/.'> GTMS</a>. I have held several industry internships and plan to work in industry after completing my PhD. 
 
 <!-- In my free time I enjoy reading, long hikes, running, and board games. -->
 
