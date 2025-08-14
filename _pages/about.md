@@ -10,39 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: 
      
-      <h6>Education</h6>
-      <ul class="ul-edu fa-ul">
-        <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Ph.D. MIT - May 2025</p>
-            </div>
-            <ul>
-              <li>Major&#58; Robot Design & Control</li>
-              <li>Minor&#58; AI </li>
-            </ul>
-            </li>
-        </li>
-        <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">M.S. MIT - June 2021</p>
-            </div>
-            <ul>
-              <li>Mechanical Engineering</li>
-            </ul>
-        </li>
-        <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">B.S. Georgia Tech - May 2019</p>
-            </div>
-            <ul>
-              <li>Major&#58; Mechanical Engineering</li>
-              <li>Minor&#58; Computer Science, Intelligence</li>
-            </ul>
-        </li>
-      </ul>
+
 
 
 
@@ -52,7 +20,72 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+
+
 I am a Robotics PhD candidate at MIT working in the <a href='https://darbelofflab.mit.edu/'>d’Arbeloff Robotics Lab</a> and am advised by <a href='https://meche.mit.edu/people/faculty/asada%40mit.edu'> Harry Asada</a>. My research interests include developing control and estimation algorithms for safe dynamic human-robot interaction, and implementing them on hardware. Previously, I received my M.S. in Mechanical Engineering from MIT in 2021. I obtained my B.S. in Mechanical Engineering with a minor in Computer Science from Georgia Tech in 2019, where I did undergraduate research primarily with <a href='https://ae.gatech.edu/directory/person/jonathan-rogers'>Jonathan Rogers</a>, and spent many an hour on the Formula SAE Team, <a href='https://www.gtms.gatech.edu/.'> GTMS</a>. I have held several industry internships and plan to work in industry after completing my PhD. 
+
+<style>
+/* Keep the heading tight to the list */
+.edu-block h5 { margin-bottom: 0.25rem; }
+
+/* Remove gap between the degree line and its bullets */
+.edu-block .course {
+  margin: 0 0 0.15rem 0;   /* tiny space below the degree line */
+  line-height: 1.2;        /* slightly tighter text */
+}
+.edu-block .details {
+  margin: 0;               /* kill default top margin on nested UL */
+  padding-left: 1rem;      /* modest indent for bullets */
+}
+
+/* Optional: tighten spacing between degree entries */
+.edu-block .ul-edu { margin-top: 0; }
+.edu-block .ul-edu > li { margin-bottom: 0.5rem; } /* adjust smaller/larger as you like */
+
+/* (Optional) make the inner bullet text slightly smaller so hierarchy is clear */
+.edu-block .details li { margin: 0; font-size: 0.95em; }
+</style>
+
+<div class="edu-social">
+
+  <div class="edu-block">
+    <h5>Education</h5>
+    <ul class="ul-edu fa-ul">
+      <li>
+        <i class="fa-li fas fa-graduation-cap"></i>
+        <div class="description">
+          <p class="course"><strong>Ph.D. MIT</strong> — May 2025</p>
+          <ul class="details">
+            <li>Major: Robot Design & Control</li>
+            <li>Minor: AI</li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <i class="fa-li fas fa-graduation-cap"></i>
+        <div class="description">
+          <p class="course"><strong>M.S. MIT</strong> — 2021</p>
+          <ul class="details">
+            <li>Mechanical Engineering</li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <i class="fa-li fas fa-graduation-cap"></i>
+        <div class="description">
+          <p class="course"><strong>B.S. Georgia Tech</strong> — 2019</p>
+          <ul class="details">
+            <li>Major: Mechanical Engineering</li>
+            <li>Minor: Computer Science, Intelligence</li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+</div>
+
+
 
 <!-- In my free time I enjoy reading, long hikes, running, and board games. -->
 
