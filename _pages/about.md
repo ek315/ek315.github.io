@@ -52,7 +52,6 @@ I am a Robotics PhD candidate at MIT working in the <a href='https://darbeloffla
     <h5>Education</h5>
     <ul class="ul-edu fa-ul">
       <li>
-        <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
         <div class="description">
           <p class="course"><strong>Ph.D. MIT</strong> — May 2025</p>
           <ul class="details">
@@ -62,7 +61,6 @@ I am a Robotics PhD candidate at MIT working in the <a href='https://darbeloffla
         </div>
       </li>
       <li>
-        <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
         <div class="description">
           <p class="course"><strong>M.S. MIT</strong> — 2021</p>
           <ul class="details">
@@ -71,7 +69,6 @@ I am a Robotics PhD candidate at MIT working in the <a href='https://darbeloffla
         </div>
       </li>
       <li>
-        <span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
         <div class="description">
           <p class="course"><strong>B.S. Georgia Tech</strong> — 2019</p>
           <ul class="details">
